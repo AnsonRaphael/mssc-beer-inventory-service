@@ -1,7 +1,7 @@
 package com.nanos.msscbeerinventoryservice.web.controllers;
 
+import com.nanos.brewery.model.BeerInventoryDto;
 import com.nanos.msscbeerinventoryservice.repositories.BeerInventoryRepository;
-import com.nanos.msscbeerinventoryservice.web.mappers.BeerInventoryDto;
 import com.nanos.msscbeerinventoryservice.web.mappers.BeerInventoryMapper;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

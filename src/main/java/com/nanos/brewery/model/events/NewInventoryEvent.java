@@ -1,4 +1,4 @@
-package com.nanos.common.events;
+package com.nanos.brewery.model.events;
 
 import lombok.NoArgsConstructor;
 

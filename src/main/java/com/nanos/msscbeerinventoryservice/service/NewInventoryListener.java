@@ -1,6 +1,6 @@
 package com.nanos.msscbeerinventoryservice.service;
 
-import com.nanos.common.events.NewInventoryEvent;
+import com.nanos.brewery.model.events.NewInventoryEvent;
 import com.nanos.msscbeerinventoryservice.config.JmsConfig;
 import com.nanos.msscbeerinventoryservice.domain.BeerInventory;
 import com.nanos.msscbeerinventoryservice.repositories.BeerInventoryRepository;

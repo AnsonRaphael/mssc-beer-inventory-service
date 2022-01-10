@@ -1,5 +1,6 @@
 package com.nanos.msscbeerinventoryservice.web.mappers;
 
+import com.nanos.brewery.model.BeerInventoryDto;
 import com.nanos.msscbeerinventoryservice.domain.BeerInventory;
 import org.mapstruct.Mapper;
 

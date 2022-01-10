@@ -1,4 +1,4 @@
-package com.nanos.msscbeerinventoryservice.web.mappers;
+package com.nanos.brewery.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
